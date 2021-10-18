@@ -1,2 +1,4 @@
 # advancedJavaScript
-Starter kit for my JS Courses
+JavaCamp Template
+
+# Day 1 - 19.10.2021
